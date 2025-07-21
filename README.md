@@ -14,6 +14,10 @@ Our work, Smart-Infinity, addresses the storage bandwidth bottleneck of storage-
 
 ---
 
+## 📰 News
+- 🐝 [24/03] Smart-Infinity received **Best-paper honorable methioned** at **HPCA'24**.
+
+
 ## Content
 - [Codebases](#codebases)
 - [Setups](#setups)
@@ -60,9 +64,4 @@ We recommend not to use docker because P2P direct communication feature of Xilin
 
 See `DeepSpeedExample/example/ds_zero_stage_infinity-nvme.json` for important hyperparameters for using SmartInfinity. 
 
-## Roadmap
-We plan to work on the following features.
 
-- [ ] Conda or Docker package release for reproducibility 
-- [ ] Various data types support for host and hls codes
-- [ ] Host memory optimization
